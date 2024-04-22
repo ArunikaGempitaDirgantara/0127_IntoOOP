@@ -56,6 +56,7 @@ int main()
 using namespace std;
 
 class bangunDatar {
-
+    //akses modifier
+    private:
 };
 
