@@ -80,3 +80,7 @@ class bangunDatar {
         }
 };
 
+int main() {
+
+}
+
